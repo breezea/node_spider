@@ -1,0 +1,14 @@
+lockfileVersion: 5.4
+
+specifiers:
+  nodemailer: ^6.7.8
+
+dependencies:
+  nodemailer: 6.7.8
+
+packages:
+
+  /nodemailer/6.7.8:
+    resolution: {integrity: sha512-2zaTFGqZixVmTxpJRCFC+Vk5eGRd/fYtvIR+dl5u9QXLTQWGIf48x/JXvo58g9sa0bU6To04XUv554Paykum3g==}
+    engines: {node: '>=6.0.0'}
+    dev: false
