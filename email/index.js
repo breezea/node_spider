@@ -12,8 +12,8 @@ const transprot = nodemailer.createTransport({
 
 const mailOptions = {
     "from": "欧里纪娃 2732593664@qq.com",
-    // to: "1197402377@qq.com",
-    to :"1838855607@qq.com",
+    to: "1197402377@qq.com",
+    // to :"1838855607@qq.com",
     subject :"nlp",
     text: "nlp双向最大匹配",
     html: "<h1>hello</h1>",
